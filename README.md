@@ -28,7 +28,7 @@ After installation, you should be able to load the database from `create_starwar
 
 In the terminal
 ```
-git clone 
+git clone https://github.com/gino79445/2023_IntroCom_HW8.git 
 cd 2023_IntroCom_HW8
 mysql -u username -p < data/create_starwar.sql
 mysql --local-infile=1 -u username -p starwar < data/load_starwar.sql
