@@ -1,0 +1,1 @@
+-- 1. How many planets did Luke Skywalker visit in movie 2? 

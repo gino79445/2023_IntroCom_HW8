@@ -1,0 +1,1 @@
+-- 2. Find all characters that never visited any empire planets. 
