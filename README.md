@@ -64,6 +64,7 @@ mysql> SELECT * FROM characters;
 | Jabba the Hutt   | Hutt    | Unknown   | neutral     |
 | Owen Lars        | Human   | Tatooine  | neutral     |
 | Rancor           | Rancor  | Unknown   | neutral     |
+| PA Chen          | Human   | Unknown   | rebels      |
 +------------------+---------+-----------+-------------+
 13 rows in set (0.00 sec)
 
