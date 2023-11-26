@@ -101,7 +101,7 @@ In this assignment you are ask to write SQL queries that answer question below (
 10. Which planet(s) has been visited by more than three different characters?
 
 ## Submission
-You have to hand in your .zip file on ***NTU cool*** before **12/12 12:00 p.m.** with required format **(student ID in lowercase)**:
+You have to hand in your .zip file on ***NTU cool*** before **12/11 12:00 p.m.** with required format **(student ID in lowercase)**:
 ```
 └── <your_student_ID>.zip
     └── <your_student_ID>/
