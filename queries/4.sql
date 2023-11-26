@@ -1,1 +1,1 @@
--- 4. Find distinct names of the planets visited by rebels-affiliated human.
+-- 4. List the planets visited by Han Solo in Movie 1 and Movie 3. (Planet_Name) 

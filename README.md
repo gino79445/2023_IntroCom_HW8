@@ -88,17 +88,17 @@ We use the [star war](https://www.starwars.com/databank) database containing thr
 - ``Planets.csv`` records the information about each planet.
 
 ## Requirement
-In this assignment you are ask to write SQL queries that answer question below (one query per question) and run them with MySQL. Some hints for columns to be selected are shown in the parentheses ()
-1. How many planets did Luke Skywalker visit in movie 2?
-2. Find all characters that never visited any empire planets.
-3. Show the characters names and the total time they spent in each planet among the movies.
-4. Find distinct names of the planets visited by rebels-affiliated human.
-5. Which planet(s) have not been visited by any characters in all movies?
-6. For each movie, which character(s) visited the highest number of planets?
-7. How many times for each character to visit his/her homeworld? show character names and times appeared in TimeTable.
-8. For Luke Skywalker, for each movie that Luke appears in, what is the planet that has the different affiliation with him and that he travels to for the longest length of time? (movie, planet)
-9. For each race, find the character that travels the most (number of time slots) in each movie. (movie, race, character_name
-10. Which planet(s) has been visited by more than three different characters?
+In this assignment you are ask to write SQL queries that answer question below (one query per question) and run them with MySQL. The names of columns are shown in the parentheses ()
+1. Find the names of characters affiliated with the rebels who have visited Tatooine. (Name) 
+2. List the planets visited by Darth Vader in chronological order based on the time of arrival. (Planet_Name)
+3. Retrieve the names of characters who have visited more than one planet. (Character_Name)
+4. List the planets visited by Han Solo in Movie 1 and Movie 3.(Planet_Name)
+5. For Luke Skywalker, for each movie that Luke appears in, what is the planet that has the different affiliation with him and that he travels to for the longest length of time? (Movie, Planet_Name)
+6. How many times for each character to visit his/her homeworld? show character names and times appeared in TimeTable. (Name, Times)
+7. List the names of characters who haven't made an appearance in any movie. (Name)
+8. Which planet(s) have not been visited by any characters in all movies? (Name)
+9. Find all characters that never visited any empire planets. (Name)
+10. For each movie, which character(s) visited the highest number of planets? (Movie, Character_Name)
 
 ## Submission
 You have to hand in your .zip file on ***NTU cool*** before **12/11 12:00 p.m.** with required format **(student ID in lowercase)**:

@@ -1,1 +1,1 @@
--- 3. Show the characters names and the total time they spent in each planet among the movies.
+-- 3. Retrieve the names of characters who have visited more than one planet. (Character_Name)

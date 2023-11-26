@@ -1,1 +1,1 @@
--- 6. For each movie, which character(s) visited the highest number of planets?
+-- 6. How many times for each character to visit his/her homeworld? show character names and times appeared in TimeTable. (Name, Times) 

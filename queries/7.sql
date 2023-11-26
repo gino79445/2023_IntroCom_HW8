@@ -1,1 +1,1 @@
--- 7. How many times for each character to visit his/her homeworld? show character names and times appeared in TimeTable.
+-- 7. List the names of characters who haven't made an appearance in any movie. (Name) 

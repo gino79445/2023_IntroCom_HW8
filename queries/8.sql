@@ -1,1 +1,1 @@
--- 8. For Luke Skywalker, for each movie that Luke appears in, what is the planet that has the different affiliation with him and that he travels to for the longest length of time? (movie, planet)
+-- 8. Which planet(s) have not been visited by any characters in all movies? (Name) 
