@@ -67,7 +67,7 @@ mysql> SELECT * FROM characters;
 +------------------+---------+-----------+-------------+
 13 rows in set (0.00 sec)
 
-mysql> source exercise/1.sql
+mysql> source sample/1.sql
 +------------------+
 | Character_Name   |
 +------------------+
