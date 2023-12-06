@@ -33,6 +33,20 @@ cd 2023_IntroCom_HW8
 mysql -u username -p < data/create_starwar.sql
 mysql --local-infile=1 -u username -p starwar < data/load_starwar.sql
 ```
+### Quick start
+
+Simply click on the [link](https://code.snsd0805.com/) and enter the provided information:
+
+```
+raspberrypi login: student
+Password: cmlab506
+
+# use the database named starwar 
+use starwar
+```
+You will be able to use the established database.
+
+
 
 ### Playaround
 After instruction above, you should now run up and enter MySQL. Then you could play with the SQL commands with MySQL like
@@ -47,7 +61,7 @@ mysql> show tables;
 +-------------------+
 3 rows in set (0.00 sec)
 
-mysql> SELECT * FROM characters;
+mysql> SELECT * FROM Characters;
 +------------------+---------+-----------+-------------+
 | name             | race    | homeworld | affiliation |
 +------------------+---------+-----------+-------------+
@@ -114,13 +128,14 @@ You have to hand in your .zip file on ***NTU cool*** before **12/11 12:00 p.m.**
 **any invalid format of submission would result in 0 points (e.g. .rar/.7z, ID with uppercase)**
 
 ## Grading 
-* 10 points for each query 
+* Questions 3, 5, 6, and 10 are worth 4 points each, and the remaining questions are worth 14 points each.
+
 
 ## Note
 
 - **The query answers must not contain duplicates**
 - For this assignment, **creation of temporary tables is not allowed**, i.e., for each question, you have to write exactly one SQL statement
-- **Any invalid format (e.g., .rar/.7z ..., missing report, missing screenshots) of the submission will result in 0 points.**
+- **Any invalid format (e.g., .rar/.7z ...) of the submission will result in 0 points.**
 
 ## Disclaimer
 The database and questions are based on the previous TA's work.
