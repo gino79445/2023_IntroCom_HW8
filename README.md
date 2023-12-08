@@ -133,7 +133,6 @@ You have to hand in your .zip file on ***NTU cool*** before **12/11 12:00 p.m.**
 
 ## Note
 
-- **The query answers must not contain duplicates**
 - For this assignment, **creation of temporary tables is not allowed**, i.e., for each question, you have to write exactly one SQL statement
 - **Any invalid format (e.g., .rar/.7z ...) of the submission will result in 0 points.**
 
